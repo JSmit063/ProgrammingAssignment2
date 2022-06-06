@@ -9,9 +9,9 @@
 using namespace std;
 
 // Named constants for this program
-const double CONTAINER_QUANTITY = 2.76;
-const double CONTAINER_COST = 4.12;
-const double CONTAINER_PROFIT = 1.45;
+const double CONTAINER_QUANTITY = 2.76; // Fixed amount container can hold
+const double CONTAINER_COST = 4.12; // Fixed cost per 1 container
+const double CONTAINER_PROFIT = 1.45; // Current profit per 1 container
 
 int main()
 {
